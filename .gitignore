@@ -34,3 +34,10 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+
+# 외부 에셋 관련
+Plugins/
+plugins.meta
+
+# SVN
+.svn/
